@@ -1,0 +1,66 @@
+GigaCorp Customer Knowledge Base - Frequently Asked Questions (FAQ)
+Document Code: GC-KB-2026-V2
+Last Updated: July 2026
+
+=== SECTION 1: SHIPPING POLICIES & DELIVERY ===
+[Line 6] Q1: Where does GigaCorp ship products?
+[Line 7] Answer: GigaCorp ships to all 50 US States, Canada, the United Kingdom, members of the European Union, Australia, Japan, and Singapore. We do not currently ship to India, Russia, or countries in South America due to local import regulations and customs delays.
+[Line 8]
+[Line 9] Q2: What are the domestic shipping rates and options?
+[Line 10] Answer: We offer three domestic shipping speeds within the United States:
+[Line 11] - Standard Ground Shipping (3-5 business days): $5.99 (Free for orders over $75).
+[Line 12] - Expedited Shipping (2 business days): $14.99.
+[Line 13] - Next-Day Delivery (1 business day): $29.99 (Orders must be placed before 1:00 PM EST).
+[Line 14]
+[Line 15] Q3: Do you offer international shipping?
+[Line 16] Answer: Yes, we ship internationally to Canada, the UK, EU countries, Australia, Japan, and Singapore.
+[Line 17] - Canada: Flat rate of $19.99, delivery takes 5-9 business days.
+[Line 18] - UK & EU: Flat rate of $24.99, delivery takes 7-14 business days.
+[Line 19] - Australia, Japan & Singapore: Flat rate of $29.99, delivery takes 10-18 business days.
+[Line 20] Please note that international orders may be subject to local import duties and taxes, which are the responsibility of the recipient and are not collected at checkout.
+
+=== SECTION 2: RETURNS, REFUNDS & REPLACEMENTS ===
+[Line 23] Q4: What is GigaCorp's return policy window?
+[Line 24] Answer: GigaCorp offers a 30-day return policy for most items. The return window starts from the date of delivery. To qualify for a full refund, items must be in their original condition, unused, and in their original packaging.
+[Line 25]
+[Line 26] Q5: How do I initiate a return?
+[Line 27] Answer: To initiate a return, log into your GigaCorp account, navigate to "Order History," select the item you wish to return, and click "Request Return." Alternatively, you can contact our returns team at returns@gigacorp.com. We will email you a prepaid shipping label and a Return Merchandise Authorization (RMA) slip.
+[Line 28]
+[Line 29] Q6: Are there restocking fees or return shipping charges?
+[Line 30] Answer:
+[Line 31] - For US domestic returns, return shipping is completely free when using our prepaid label. However, a 10% restocking fee applies to electronics and custom assemblies.
+[Line 32] - For international returns, the customer is responsible for the cost of return shipping, and no prepaid labels are provided. A flat 15% restocking fee applies to all international returns.
+[Line 33]
+[Line 34] Q7: How long does it take to receive a refund?
+[Line 35] Answer: Once we receive and inspect your returned item at our warehouse, refunds are processed within 5-7 business days. The refund will be credited back to your original payment method. Depending on your financial institution, it may take an additional 3-5 business days for the funds to appear on your statement.
+
+=== SECTION 3: BUSINESS HOURS & SUPPORT CHANNELS ===
+[Line 38] Q8: What are GigaCorp's business hours?
+[Line 39] Answer: Our customer support operations run Monday through Friday from 8:00 AM to 8:00 PM Eastern Standard Time (EST).
+[Line 40]
+[Line 41] Q9: Do you offer support on weekends or holidays?
+[Line 42] Answer: Standard support is closed on weekends (Saturday and Sunday) and all major US national holidays. However, clients on our Premium or Enterprise service tiers have access to 24/7 emergency support channels.
+[Line 43]
+[Line 44] Q10: How can I contact customer support?
+[Line 45] Answer: You can reach us via the following channels during business hours:
+[Line 46] - Live Chat: Click the support widget on our website (response time: <5 minutes).
+[Line 47] - Email: support@gigacorp.com (response time: <24 hours).
+[Line 48] - Toll-Free Phone: +1-800-555-GIGA (4442) (response time: <15 minutes).
+
+=== SECTION 4: SERVICE TIERS & SLAS ===
+[Line 51] Q11: What service support tiers does GigaCorp offer?
+[Line 52] Answer: GigaCorp offers three customer service and support tiers:
+[Line 53] 1. Standard Tier (Included automatically for all customers):
+[Line 54]    - Support Hours: Mon-Fri, 8:00 AM - 8:00 PM EST.
+[Line 55]    - Communication Channels: Email and Live Chat only.
+[Line 56]    - Response SLA: Within 24 hours for email, 10 minutes for live chat.
+[Line 57] 2. Premium Support Tier ($49/month or included with purchase of GigaCorp Pro hardware):
+[Line 58]    - Support Hours: 24/7/365 availability.
+[Line 59]    - Communication Channels: Priority Phone support, email, and live chat.
+[Line 60]    - Response SLA: Phone support connects in <5 minutes; email responses in <4 hours.
+[Line 61]    - Benefit: Access to senior support technicians.
+[Line 62] 3. Enterprise Elite Tier (Custom pricing starting at $499/month, for business accounts):
+[Line 63]    - Support Hours: 24/7/365 dedicated channel.
+[Line 64]    - Communication Channels: Dedicated Slack channel, direct hotline, email, video conference support.
+[Line 65]    - Response SLA: Guaranteed under 15-minute response time for any critical issue.
+[Line 66]    - Benefit: Assigned Technical Account Manager (TAM) and quarterly system health reviews.

@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and byte-code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local configurations
+.env
+.env.*
+.streamlit/config.toml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Local Vector indices (if saved to disk)
+faiss_index/
+chroma_db/
