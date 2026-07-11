@@ -3,7 +3,7 @@ import os
 import re
 import math
 from collections import Counter
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 # Set page config
 st.set_page_config(
